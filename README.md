@@ -1,0 +1,2 @@
+# Introduction-to-Trading-Machine-Learning-GCP
+COURSERA COURSE FOR BEGINNERS IN QUANTITATIVE TRADING
